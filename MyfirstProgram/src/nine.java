@@ -25,5 +25,10 @@ public class nine {
             }
         }
 
+        //another way to initialize
+        String[][] cars2 = {{"Camaro", "Corvette", "Silverado"}, 
+                            {"Mustang", "Ranger", "Tesla"}};
+        //2 rows and 3 columns matrix
+
     }
 }
